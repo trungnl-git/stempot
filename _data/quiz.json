@@ -1,0 +1,216 @@
+{
+  "partyDescriptions": {
+    "GroenLinks-PvdA": "Je koelkast lijkt op een volkstuin met stemrecht. Alles is lokaal, seizoensgebonden en moreel superieur.",
+    "PVV": "Gefrituurde vrijheid op een plastic bord. Geen moeilijke woorden, geen koriander. Gewoon bamihap en dan weer door.",
+    "VVD": "Snel, strak en zakelijk. Je eten is bezorgd voor je trek hebt. Geen gekruimel, wel rendement per calorie.",
+    "Partij voor de Dieren": "Je kookt alleen met ingrediënten die vrijwillig van de plant zijn gevallen. Je composteerbare servet huilt zachtjes mee.",
+    "SP": "Soep uit een grote pan die je deelt met de buurt. Vol van smaak, geen fratsen. Gelijk voor iedereen, ook de gehaktbal.",
+    "D66": "Je serveert sushi op een broodbordje uit de Kringloop. Je kent zes soorten mosterd en stemt af op TED Talks tijdens het koken.",
+    "CDA": "Stamppot zoals oma hem maakte, met een vleugje bestuurlijke degelijkheid. Je eet met mes, vork en verantwoordelijkheid.",
+    "BBB": "Rauwmelkse kaas, stoofvlees en een krat bier. Van eigen bodem, met modder aan je laarzen en trots in je maag.",
+    "Volt": "Je bestelt via een pan-Europese app, eet biologisch Sloveens zuurdesembrood en noemt dat vrijdagavond snacken.",
+    "Denk": "Je gelooft in de verbindende kracht van eten, zolang iedereen het erover eens is dat jouw moeders recept het beste is.",
+    "NSC": "Je maaltijd is degelijk en doordacht. Geen poespas, maar wel voedzaam. Je hebt de ingrediëntenlijst dubbel gecheckt en een notitie gemaakt voor de volgende keer. Bestaanszekerheid, ook in de keuken.",
+    "Zwever": "Je kon geen keuzes maken en hebt te veel vragen overgeslagen. Misschien is water met een smaakje iets voor jou? Of gewoon een boterham met niks."
+  },
+  "tieBreakers": {
+    "q1_VVD": true, "q2_SP": true, "q3_NSC": true, "q4_PVV": true, "q5_BBB": true,
+    "q6_Partij voor de Dieren": true, "q7_Volt": true, "q8_CDA": true,
+    "q9_GroenLinks-PvdA": true, "q10_Denk": true, "q4_D66": true
+  },
+  "justifications": {
+    "q1": {
+        "VVD": "Een pragmatische start. De cafeïne stimuleert de economie, de krant levert de talking points. Efficiëntie is key.",
+        "Partij voor de Dieren": "Je begint de dag met een zuiver geweten en een darmflora waar een natuurdocumentaire over gemaakt kan worden.",
+        "GroenLinks-PvdA": "Voedselverspilling is voor kapitalisten. Jij drinkt je idealen, en ze smaken naar boerenkool en rechtvaardigheid.",
+        "CDA": "Een fundament van degelijkheid. Geen fratsen, geen onzin. Dit is het ontbijt waarop Nederland is gebouwd."
+    },
+    "q2": {
+        "SP": "Elke euro extra is een euro die niet naar de gemeenschap gaat. Een sobere lunch voor een solidair hart.",
+        "VVD": "De lunch is geen maaltijd, het is een netwerkmoment. De kosten zijn een investering in toekomstig succes.",
+        "D66": "Je investeert in je eigen welzijn met een weloverwogen, progressieve maaltijd. Kennis is macht, quinoa is brandstof.",
+        "NSC": "Goed bestuur begint bij een goed gevulde broodtrommel. Geen verrassingen, wel zekerheid tot de laatste kruimel."
+    },
+    "q3": {
+        "GroenLinks-PvdA": "Een kleurrijke coalitie van groenten in een kom. Iedere hap is een stem voor een betere, meer diverse wereld.",
+        "PVV": "Een duidelijke, onverbloemde keuze. Dit gerecht verdedigt de Nederlandse culinaire normen en waarden met saus.",
+        "NSC": "De drie pijlers van de Nederlandse maaltijd: Aardappel, Vlees, Groente. Een toonbeeld van stabiliteit en voorspelbaarheid.",
+        "D66": "Een progressieve en wereldse maaltijd. Het bewijs dat je geen vlees nodig hebt voor een complex en gelaagd smakenpalet."
+    },
+    "q4": {
+        "D66": "Een rationele keuze voor duurzame energie. Elk nootje is een weloverwogen beslissing voor lichaam en geest.",
+        "PVV": "De ruggengraat van de Nederlandse schoolkantine. Een warm, hartig statement tegen de culinaire elite.",
+        "BBB": "Rechtstreeks van het land, puur en eerlijk. Dit is geen snack, dit is een stukje agrarische trots.",
+        "Denk": "Een zoete herinnering aan de kracht van verbinding en de rijkdom van diverse culturen. En lekker veel siroop."
+    },
+    "q5": {
+        "Denk": "Het ultieme gerecht van een verenigde samenleving. Alle lagen komen samen in perfecte harmonie. En met extra knoflooksaus.",
+        "BBB": "Terwijl anderen experimenteren, houd jij vast aan de klassiekers. Een stevige maaltijd voor een nuchter volk.",
+        "Volt": "Een grensoverschrijdende combinatie van ingrediënten. Deze salade kijkt vooruit, over de landsgrenzen heen.",
+        "PVV": "Een stukje geadopteerde traditie dat we nu met hand en tand verdedigen als oer-Hollands. Met of zonder kroepoek, dat is de vraag."
+    },
+    "q6": {
+        "Partij voor de Dieren": "Je weigert bij te dragen aan het leed van de zuivelindustrie. Jouw koffie is 100% plantaardig en 200% statement.",
+        "SP": "De meest basale voorziening, gratis en voor iedereen. Je proost op de publieke sector.",
+        "VVD": "Een investering in genot. Kwaliteit mag wat kosten, of het nu om een fles wijn of om de economie gaat.",
+        "BBB": "Je ondersteunt de lokale ondernemer en geniet van een product met een verhaal. Proost op de regio."
+    },
+    "q7": {
+        "Volt": "Elke aankoop is een data-gedreven beslissing voor een beter Europees klimaat. Je optimaliseert je boodschappenmand.",
+        "GroenLinks-PvdA": "Je betaalt graag iets meer om de wereld te redden, één biologische komkommer per keer. Je linnen tasje is je schild.",
+        "PVV": "De portemonnee van de gewone man is heilig. Je strijdt tegen de inflatie in het zuivelschap.",
+        "D66": "Je zoekt naar verfijning en kwaliteit. Je steunt de kleine specialist en verbreedt je culinaire horizon."
+    },
+    "q8": {
+        "CDA": "Een dessert dat generaties verbindt. De geur van kaneel en geborgenheid is de basis van de samenleving.",
+        "Partij voor de Dieren": "Genieten zonder schuldgevoel. Dit ijs bewijst dat compassie en een zoete trek prima samen kunnen gaan.",
+        "BBB": "Het dessert voor wie weet dat hartig de ware afsluiter is. Een ode aan de Nederlandse veestapel.",
+        "SP": "Eenvoudig, betaalbaar en voor iedereen toegankelijk. De vla van het volk, eerlijk verdeeld over de schaaltjes."
+    },
+    "q9": {
+        "CDA": "Een symbool van Nederlandse vindingrijkheid en zuinigheid. Elk plakje is perfect afgemeten, net als het partijprogramma.",
+        "Volt": "Technologische vooruitgang in dienst van de snelle, gezonde maaltijd. Je beheert je kookproces vanuit de cloud.",
+        "SP": "Een instrument om te delen. Eenvoudig, effectief en onmisbaar in de gaarkeuken van de revolutie.",
+        "GroenLinks-PvdA": "Je transformeert een nederige courgette in een progressief, koolhydraatarm alternatief. De vorm is de boodschap."
+    },
+    "q10": {
+        "Denk": "Waar de eigenaar je naam kent en de porties royaal zijn. Eten is gemeenschap, en de gemeenschap is familie.",
+        "Partij voor de Dieren": "Je eet op een plek waar geen dier het menu heeft gehaald. De menukaart leest als een manifest.",
+        "NSC": "Een vertrouwde omgeving met een voorspelbare kaart. Je weet wat je krijgt, en dat is precies de bedoeling.",
+        "Volt": "Een culinaire smeltkroes van culturen. Je proeft de toekomst, en die is verrassend goed op smaak gebracht."
+    },
+    "q11": {
+        "VVD": "Een klassieke, luxe keuze. Het is een investering in direct genot, met een knapperige buitenkant en een solide kern.",
+        "Partij voor de Dieren": "Puur, eenvoudig en vrij van dierlijke producten. Een verfrissende keuze die het ecosysteem minimaal belast.",
+        "GroenLinks-PvdA": "Een dubbele portie duurzaamheid. Eerlijk geproduceerd, eerlijk verdeeld. Een ijsje voor een betere wereld.",
+        "CDA": "Een nostalgische traktatie die jong en oud verbindt. De dip staat voor de kleurrijke diversiteit binnen de gemeenschap.",
+        "SP": "Het ijsje van het volk. Betaalbaar, iconisch en voor iedereen. Een klassieker die nooit teleurstelt.",
+        "D66": "Een verfijnde, weloverwogen keuze. Licht, progressief en met een intellectuele, zure ondertoon.",
+        "NSC": "Geen onzin, geen poespas. Gewoon een goed ijsje in een betrouwbaar hoorntje. De basis moet goed zijn.",
+        "PVV": "Een ijsje met een duidelijke vorm en smaak. Je weet wat je krijgt en het is lekker ongecompliceerd.",
+        "BBB": "Gemaakt met melk van eigen bodem. Vol en romig, een smaak die je terugbrengt naar de essentie.",
+        "Denk": "Een verrassende combinatie van traditie en vernieuwing. Het beste van twee werelden, verenigd in een zoete traktatie.",
+        "Volt": "Een ijsje dat grenzen overschrijdt, met smaken uit verschillende lidstaten. Een voorproefje van een verenigd en smakelijk Europa."
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Hoe begin jij je dag? (Ontbijt)",
+      "answers": [
+        { "text": "Een snelle espresso en de krant.", "party": "VVD", "image": "/img/krant.jpg" },
+        { "text": "Havermout met zelfgeplukte bessen.", "party": "Partij voor de Dieren", "image": "/img/havermout.jpg" },
+        { "text": "Smoothie van geredde groenten.", "party": "GroenLinks-PvdA", "image": "/img/smoothie.jpg" },
+        { "text": "Een boterham met kaas.", "party": "CDA", "image": "/img/broodjekaas.jpg.webp" }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": "Wat geef je uit aan lunch?",
+      "answers": [
+        { "text": "Max €5, anders burgerverraad.", "party": "SP", "image": "/img/huisbaasbob.jpg" },
+        { "text": "Declareren = lunch.", "party": "VVD", "image": "/img/kassabon.jpg" },
+        { "text": "€15 voor gezondheid.", "party": "D66", "image": "/img/shut-up-and-take-my-money-meme.png" },
+        { "text": "Zelf meenemen van huis.", "party": "NSC", "image": "/img/lunchbox.jpg" }
+      ]
+    },
+    {
+      "id": "q3",
+      "title": "Wat eet je het liefst op een doordeweekse avond?",
+      "answers": [
+        { "text": "Buddha bowl met kimchi.", "party": "GroenLinks-PvdA", "image": "/img/buddhabowl.jpg" },
+        { "text": "Patat oorlog.", "party": "PVV", "image": "/img/patat-oorlog.jpg", "specialId": "patat-text" },
+        { "text": "Aardappelen, wortels en een stukje vlees.", "party": "NSC", "image": "https://www.slagerijlaurijssen.nl/wp-content/uploads/2021/08/gekookte-aardappelen-met-worteltjes-en-blinde-vink.jpg" },
+        { "text": "Vegetarische curry.", "party": "D66", "image": "/img/curry.webp" }
+      ]
+    },
+    {
+      "id": "q4",
+      "title": "Tijd voor een snack! Wat wordt het?",
+      "answers": [
+        { "text": "Een handje ongezouten noten.", "party": "D66", "image": "/img/noten.jpg" },
+        { "text": "Een frikandelbroodje.", "party": "PVV", "image": "/img/frikandelbroodje.jpg" },
+        { "text": "Een blokje kaas, van de boer.", "party": "BBB", "image": "/img/bbb-kaas.avif" },
+        { "text": "Baklava met een kopje thee.", "party": "Denk", "image": "/img/baklava.png" }
+      ]
+    },
+    {
+      "id": "q5",
+      "title": "Wat is jouw favoriete weekendmaaltijd?",
+      "answers": [
+        { "text": "Kapsalon van de Kebab Koning.", "party": "Denk", "image": "/img/kapsalon.webp" },
+        { "text": "Boerenkool met spek.", "party": "BBB", "image": "/img/boerenkool.jpg" },
+        { "text": "Innovatieve salade.", "party": "Volt", "image": "/img/salade.jpg" },
+        { "text": "Saté met pindasaus.", "party": "PVV", "image": "/img/sate.jpg" }
+      ]
+    },
+    {
+      "id": "q6",
+      "title": "Wat bestel je als je lekker gaat zitten?",
+      "answers": [
+        { "text": "Havermelk-cappuccino.", "party": "Partij voor de Dieren", "image": "/img/havermelk.jpg" },
+        { "text": "Een glas kraanwater, is van ons allemaal.", "party": "SP", "image": "/img/kraanwater.avif" },
+        { "text": "Een goed glas wijn, prijs is een investering.", "party": "VVD", "image": "/img/dries-roelvink.jpg" },
+        { "text": "Een biertje van een lokale brouwerij.", "party": "BBB", "image": "/img/brouwer.jpg.webp" }
+      ]
+    },
+    {
+      "id": "q7",
+      "title": "Waar doe je boodschappen?",
+      "answers": [
+        { "text": "Met een app die de CO2-voetafdruk berekent.", "party": "Volt", "image": "/img/mobiel.jpg" },
+        { "text": "Op de biologische markt.", "party": "GroenLinks-PvdA", "image": "/img/biomarkt.jpg" },
+        { "text": "Bij de goedkoopste supermarkt.", "party": "PVV", "image": "/img/lidl.jpeg" },
+        { "text": "Bij de delicatessenzaak op de hoek.", "party": "D66", "image": "/img/speciaalzaak.jpg" }
+      ]
+    },
+    {
+      "id": "q8",
+      "title": "Er is nog plek voor een toetje. Wat wordt het?",
+      "answers": [
+        { "text": "Appeltaart van oma.", "party": "CDA", "image": "/img/appeltaart.png" },
+        { "text": "Vegan ijs, gemaakt van avocado en banaan.", "party": "Partij voor de Dieren", "image": "/img/veganijs.png" },
+        { "text": "Een kaasplankje met lokale kazen.", "party": "BBB", "image": "/img/kaasplank.jpg" },
+        { "text": "Vanillevla voor iedereen.", "party": "SP", "image": "/img/vla.png.avif" }
+      ]
+    },
+    {
+      "id": "q9",
+      "title": "Wat is je favoriete keukengereedschap?",
+      "answers": [
+        { "text": "De oer-Hollandse kaasschaaf.", "party": "CDA", "image": "/img/kaasschaaf.jpg.webp" },
+        { "text": "Een airfryer met een app.", "party": "Volt", "image": "/img/airfryer.jpg" },
+        { "text": "Een simpele soeplepel.", "party": "SP", "image": "/img/soeplepel.jpg" },
+        { "text": "Een spiraalsnijder voor groentespaghetti.", "party": "GroenLinks-PvdA", "image": "/img/spiraalsnijder.jpg.webp" }
+      ]
+    },
+    {
+      "id": "q10",
+      "title": "Je gaat uit eten. Waar ga je naartoe?",
+      "answers": [
+        { "text": "Een familierestaurant waar je iedereen kent.", "party": "Denk", "image": "/img/familierestaurant.jpg.avif" },
+        { "text": "Een eetcafé met een volledig vegan kaart.", "party": "Partij voor de Dieren", "image": "/img/eetcafe.jpg" },
+        { "text": "Een grand café met een betrouwbare menukaart.", "party": "NSC", "image": "https://res.cloudinary.com/dljhiiamh/image/fetch/f_webp,q_70,w_1920/https://api.dewinkelvansinkel.nl/wp-content/uploads/2022/02/Grandcafe-feb.jpeg" },
+        { "text": "Een nieuw fusion-restaurant in de stad.", "party": "Volt", "image": "/img/fusion.jpg" }
+      ]
+    },
+    {
+      "id": "q11",
+      "title": "Bonus: Wat voor ijsje neem je vandaag?",
+      "type": "bonus",
+      "answers": [
+        { "text": "Klassieke Magnum", "party": "VVD", "image": "https://images.ctfassets.net/s0lodsnpsezb/127711_M/e790a23815a19dc68ebd06ad987c7427/127711.png" },
+        { "text": "Biologisch Waterijsje", "party": "Partij voor de Dieren", "image": "https://www.ecoalimentaria.es/448-large_default/polo-bio-ice.jpg" },
+        { "text": "Twee Eerlijke Bolletjes", "party": "GroenLinks-PvdA", "image": "https://img.freepik.com/premium-photo/hand-met-twee-bolletjes-ijsje-die-smelt-in-het-zonlicht_76000-6471.jpg" },
+        { "text": "Softijs met Discodip", "party": "CDA", "image": "https://toscanahardenberg.nl/image/data/nieuwe-map/ijs/softijs/kleuterijsje_disco.png" },
+        { "text": "Raketje", "party": "SP", "image": "https://assets.unileversolutions.com/v1/1220447.png" },
+        { "text": "Citroen Sorbetijs", "party": "D66", "image": "https://www.baktotaal.nl/media/catalog/product/cache/229c72614d70f3e0ed0cd1eac6f71b81/C/i/Citroensorbet_8a27.png" },
+        { "text": "Degelijk Hoorntje", "party": "NSC", "image": "https://cafetariadekemphaan.nl/wp-content/uploads/2024/06/oubliehoorn.webp" },
+        { "text": "Calippo", "party": "PVV", "image": "https://avondwinkelpapillon.nl/6195-large_default/ola-calippo-cola-105-ml.jpg" },
+        { "text": "Echt Boerenijs", "party": "BBB", "image": "https://derijkzuivel.nl/wp-content/uploads/2021/12/Vanille-Ijs-scaled.jpg" },
+        { "text": "Baklava IJs", "party": "Denk", "image": "https://reutel.nl/wp-content/uploads/2020/08/reutelnl-turkse-baklava-met-ijs.jpg" },
+        { "text": "Europees Fusion IJs", "party": "Volt", "image": "https://images.openfoodfacts.org/images/products/405/648/937/4336/front_nl.12.full.jpg" }
+      ]
+    }
+  ]
+}

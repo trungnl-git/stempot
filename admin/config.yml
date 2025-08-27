@@ -1,0 +1,40 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (master by default)
+
+media_folder: "img" # Media files will be stored in the repo under img/
+public_folder: "/img" # The src attribute for uploaded media will begin with /img/
+
+collections:
+  - name: "quiz"
+    label: "Quiz"
+    files:
+      - file: "_data/quiz.json"
+        label: "Vragen en Partij-omschrijvingen"
+        name: "quiz_settings"
+        fields:
+          - {label: "Vragen", name: "questions", widget: "list", fields: [
+              {label: "ID", name: "id", widget: "string", hint: "Bijv. 'q1', 'q2', etc. Moet uniek zijn."},
+              {label: "Vraag Titel", name: "title", widget: "string"},
+              {label: "Type", name: "type", widget: "select", options: ["standaard", "bonus"], default: "standaard", optional: true},
+              {label: "Antwoorden", name: "answers", widget: "list", fields: [
+                {label: "Antwoord Tekst", name: "text", widget: "string"},
+                {label: "Partij", name: "party", widget: "string"},
+                {label: "Afbeelding URL", name: "image", widget: "image"},
+                {label: "Speciale ID (optioneel)", name: "specialId", widget: "string", optional: true, hint: "Alleen invullen voor de 'patat-text' vraag."}
+              ]}
+            ]}
+          - {label: "Partij Omschrijvingen", name: "partyDescriptions", widget: "object", fields: [
+              {label: "GroenLinks-PvdA", name: "GroenLinks-PvdA", widget: "string"},
+              {label: "PVV", name: "PVV", widget: "string"},
+              {label: "VVD", name: "VVD", widget: "string"},
+              {label: "Partij voor de Dieren", name: "Partij voor de Dieren", widget: "string"},
+              {label: "SP", name: "SP", widget: "string"},
+              {label: "D66", name: "D66", widget: "string"},
+              {label: "CDA", name: "CDA", widget: "string"},
+              {label: "BBB", name: "BBB", widget: "string"},
+              {label: "Volt", name: "Volt", widget: "string"},
+              {label: "Denk", name: "Denk", widget: "string"},
+              {label: "NSC", name: "NSC", widget: "string"},
+              {label: "Zwever", name: "Zwever", widget: "string"}
+            ]}
